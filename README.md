@@ -19,9 +19,13 @@ Objectives
 •	Definition of improved methodologies for conducting and analysing the anthropometric standardization
 
 Notes on the data: 
+
 •	Normally the data are collected by 20 trainees by measuring 10 children twice over a 4 hour period
+
 •	Data are not always available from all 10 children twice
+
 •	When a supervisor was used as the reference for comparison (gold standard), they are identified in the position column as supervisor and their id number if one was used.  Supervisors are not always used as the gold standard. 
 •	Weight data are almost always the most accurate and precise as the measures are made with a digital scale accurate to 100g
+
 •	MUAC data are the most difficult to analyse.  Trainees without extensive field experience tend to pull the MUAC band too tight when measuring children.  We do not yet have a MUAC measuring tool with a standard tension for making survey measurements.  The UNICEF supply division has identified a MUAC tape with standard tension for measuring women, but currently a smaller MUAC tap for measuring children has not been identified. 
 
