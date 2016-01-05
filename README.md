@@ -5,9 +5,11 @@ SWB UNICEF Anthropometric Standardization
 Summary
 
 Accuracy, Precision and Possible Fraud
+
 In UNICEF nutrition survey trainings, we train data collectors on anthropometric measures, then practice and test all individuals for their capacity to measure height, weight and middle upper arm circumference (MUAC) with an acceptable accuracy and precision. Each trainee is responsible to measure 10 children twice.  All tools are standardized so there is no risk of measurement bias from the instruments.   If they fail, we have to retrain until they pass or they are not hired. Our problem is that when there is poor supervision of the process and there is cheating. The sharpest trainees copy some but not all of the measures from the first round to the second round.  As there are 20 measures of height, weight and MUAC for each child, we can calculate the accuracy and precision of each measure for each trainee.  We have several databases of these training exercises from the region. We would like to determine the statistical probability of cheating in the results for each trainee.   For example, what is the probability of one trainee recording twice a MUAC 1 cm away from the median measure of the group or the master trainer in the exercise?  What is the probability that trainee A and trainee B record the same measure of MUAC when that measure is 0.5 cm from the median measure? 
  
 Objectives
+
 •	How can we detect possible fraud in anthropometric standardization data?
 
 •	How to define cheating? 
