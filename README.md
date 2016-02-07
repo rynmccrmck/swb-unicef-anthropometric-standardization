@@ -20,9 +20,11 @@ Objectives
 
 Notes on the data: 
 
-•	Normally the data are collected by 20 trainees by measuring 10 children twice over a 4 hour period
+•	In one session, normally the data are collected by 20 trainees by measuring 10 children twice over a 4 hour period
 
-•	Data are not always available from all 10 children twice
+•	Data are not always available from all 10 children twice. Missing data from children are displayed as empty cells
+
+•	Data for weight and height are recorded with 1 digit after the decimal point of precision.  If data are presented with 2 digits after the decimal point of precision then this is a data entry error, but should be considered as a valid measure as trainees are responsible for entering the data correctly. 
 
 •	When a supervisor was used as the reference for comparison (gold standard), they are identified in the position column as supervisor and their id number if one was used.  Supervisors are not always used as the gold standard. 
 
